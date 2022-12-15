@@ -71,3 +71,7 @@ filterString: ```startAt_16.12.2022```
 filterString: ```priority_1```
 
 filterString: ```status_1```
+
+### TO-DO and problems
+due to the size of the project, I decided not to add a Dto, but this should be done in normal projects.
+Please note that I am not doing this because of ignorance, but because of the lack of meaning in this particular project
